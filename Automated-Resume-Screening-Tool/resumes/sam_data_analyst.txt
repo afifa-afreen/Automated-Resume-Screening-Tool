@@ -1,0 +1,16 @@
+Sam Taylor
+Email: sam@example.test
+
+PROFILE
+Entry-level Data Analyst interested in reporting and business insights.
+
+SKILLS
+Python, SQL, Excel, Pandas, NumPy, Power BI, data visualization, Git
+
+PROJECTS
+Cleaned and analyzed sales data using Python and Pandas.
+Created dashboards and reports using Power BI.
+Used SQL joins and aggregation queries to summarize datasets.
+
+EDUCATION
+BSc Statistics, Sample College

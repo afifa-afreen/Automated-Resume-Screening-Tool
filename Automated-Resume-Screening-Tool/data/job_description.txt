@@ -1,0 +1,17 @@
+Job Title: Junior Python Developer
+
+We are looking for an entry-level Python Developer to build and maintain
+Python applications. The role involves writing clean Python code, working
+with SQL databases, analyzing data with Pandas and NumPy, and collaborating
+on software projects.
+
+Required skills:
+Python, SQL, Pandas, NumPy, Git, REST API
+
+Preferred skills:
+Flask, Django, Machine Learning, Scikit-learn, data visualization
+
+Education:
+A degree or coursework in Computer Science, Information Technology,
+Data Science, or a related discipline is helpful. Equivalent project
+experience may also be relevant.

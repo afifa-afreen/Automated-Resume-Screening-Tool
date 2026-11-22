@@ -1,0 +1,17 @@
+Alex Morgan
+Email: alex@example.test
+
+PROFILE
+Junior Python Developer with practical project experience in Python
+application development and data analysis.
+
+SKILLS
+Python, SQL, Pandas, NumPy, Git, Flask, REST API, Scikit-learn
+
+PROJECTS
+Built a student performance analysis project using Pandas and NumPy.
+Created a Flask REST API for a library management application.
+Used Git for version control and wrote SQL queries for data retrieval.
+
+EDUCATION
+BSc Computer Science, Sample University

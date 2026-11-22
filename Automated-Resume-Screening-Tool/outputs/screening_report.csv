@@ -1,0 +1,4 @@
+rank,candidate_file,matching_score,similarity_score,skill_coverage,detected_skills,missing_required_skills,status
+1,alex_python_developer.txt,57.68,29.47,100.0,"Git, NumPy, Pandas, Python, REST API, SQL",,Prioritize for human review
+2,sam_data_analyst.txt,43.97,17.72,83.33,"Git, NumPy, Pandas, Python, SQL",REST API,Further review required
+3,jordan_web_developer.txt,1.91,3.18,0.0,,"Python, SQL, Pandas, NumPy, Git, REST API",Further review required

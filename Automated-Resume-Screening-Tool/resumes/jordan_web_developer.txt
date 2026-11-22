@@ -1,0 +1,15 @@
+Jordan Lee
+Email: jordan@example.test
+
+PROFILE
+Junior Web Developer with experience building responsive websites.
+
+SKILLS
+HTML, CSS, JavaScript, React, Node.js, MongoDB
+
+PROJECTS
+Built a portfolio website using React.
+Created a small task tracking application using JavaScript and Node.js.
+
+EDUCATION
+Diploma in Web Development, Sample Institute
